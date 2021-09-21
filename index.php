@@ -1,3 +1,6 @@
+<html>
+
+<body>
 <?php
 
 $title = "College";
@@ -11,4 +14,5 @@ include('includes/nav.inc');
 include('includes/footer.inc');
 ?>
   
-   
+  </body>
+</html>
